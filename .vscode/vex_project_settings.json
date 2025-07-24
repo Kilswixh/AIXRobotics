@@ -1,0 +1,18 @@
+{
+	"extension": {
+		"version": "0.7.2025041600",
+		"json": 2
+	},
+	"project": {
+		"name": "test_2",
+		"description": "To print statement",
+		"creationDate": "7/22/2025, 10:35:50 AM",
+		"platform": "V5",
+		"language": "python",
+		"slot": 2,
+		"sdkVersion": "V5_1_0_1_25",
+		"python": {
+			"main": "src/main.py"
+		}
+	}
+}
